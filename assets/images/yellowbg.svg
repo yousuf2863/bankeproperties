@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 194 194" width="194" height="194">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,193.5,-193.5,0,97.25,.5)">
+			<stop offset="0" stop-color="#ffbb00" stop-opacity="0"/>
+			<stop offset="1" stop-color="#ffbb00" stop-opacity=".4"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1);stroke: #cbcbcb;stroke-miterlimit:100 } 
+	</style>
+	<path id="Rectangle 66" fill-rule="evenodd" class="s0" d="m0.5 0.5h193.5v193.5h-193.5z"/>
+</svg>

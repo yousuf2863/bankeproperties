@@ -1,0 +1,29 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 39" width="50" height="50">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h38.52v38.5h-38.52z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #9e9e9e } 
+		.s1 { fill: #ffbb00 } 
+	</style>
+	<g id="Group 79" clip-path="url(#cp1)">
+		<path id="Path 92" fill-rule="evenodd" class="s0" d="m8.57 16.55v-15.7c0-0.35 0.8-0.93 1.2-0.84l15.88 0.1c0.51 0.33 0.68 0.91 0.75 1.48 0.15 1.29-0.27 6.52 0.09 7.15l11.89 5.95 0.14 23.17-0.46 0.47c-12.38 0.23-24.87 0.23-37.25 0-0.54-0.27-0.56-0.72-0.61-1.25-0.64-5.97 0.5-13.06 0-19.15-0.13-0.45 0.42-1.38 0.84-1.38zm15.98-14.68h-14.12v14.68h6.04c0.04 0 0.65 0.6 0.65 0.65v3.62l7.43-4zm12.26 34.74v-20.71l-10.4-5.11v6.97l-9.29 5.2v13.65zm-21.55-18.2h-13.19v18.2h13.19z"/>
+		<path id="Path 93" class="s1" d="m23.43 24.53v3.07c0 0.02-0.26 0.28-0.28 0.28h-3.53c-0.02 0-0.28-0.26-0.28-0.28v-3.07z"/>
+		<path id="Path 94" class="s1" d="m23.43 33.64h-4.09v-3.07c0-0.02 0.26-0.28 0.28-0.28h3.53c0.02 0 0.28 0.26 0.28 0.28z"/>
+		<path id="Rectangle 47" fill-rule="evenodd" class="s1" d="m29.93 18.59h3.9v3.34h-3.9z"/>
+		<path id="Rectangle 48" fill-rule="evenodd" class="s1" d="m24.73 24.53h3.9v3.35h-3.9z"/>
+		<path id="Rectangle 49" fill-rule="evenodd" class="s1" d="m29.93 24.53h3.9v3.35h-3.9z"/>
+		<path id="Rectangle 50" fill-rule="evenodd" class="s1" d="m29.93 30.29h3.9v3.35h-3.9z"/>
+		<path id="Path 95" class="s0" d="m10.05 30.29v3.35h-2.41v-3.07c0-0.45 1.99-0.23 2.41-0.28z"/>
+		<path id="Rectangle 51" fill-rule="evenodd" class="s0" d="m5.22 21h2.42v2.42h-2.42z"/>
+		<path id="Rectangle 52" fill-rule="evenodd" class="s0" d="m10.05 21h2.42v2.42h-2.42z"/>
+		<path id="Rectangle 53" fill-rule="evenodd" class="s0" d="m5.22 25.83h2.42v2.42h-2.42z"/>
+		<path id="Rectangle 54" fill-rule="evenodd" class="s0" d="m10.05 25.83h2.42v2.42h-2.42z"/>
+		<path id="Path 96" class="s0" d="m16.55 6.51v2.79h-2.78c0.11-0.57-0.19-2.23 0.08-2.61 0.26-0.38 2.16-0.08 2.7-0.18z"/>
+		<path id="Path 97" class="s0" d="m21.76 9.3h-2.79v-2.79c0.55 0.1 2.44-0.2 2.7 0.18 0.27 0.38-0.02 2.04 0.09 2.61z"/>
+		<path id="Path 98" class="s0" d="m16.55 11.9v2.79c-0.57-0.11-2.22 0.18-2.61-0.08-0.38-0.27-0.08-2.16-0.17-2.71z"/>
+		<path id="Path 99" class="s0" d="m21.76 11.9c-0.11 0.57 0.18 2.23-0.09 2.61-0.26 0.38-2.15 0.09-2.7 0.18v-2.79z"/>
+	</g>
+</svg>

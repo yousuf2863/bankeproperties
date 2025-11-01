@@ -283,6 +283,7 @@ h2 {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 30%;
+  position: relative;
 }
 
 .abtbanner {
@@ -292,6 +293,7 @@ h2 {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 30%;
+  position: relative;
 }
 
 .probanner {

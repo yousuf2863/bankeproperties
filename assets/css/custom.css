@@ -1469,6 +1469,10 @@ h2 {
     width: 100%;
   }
 
+  .infodiv .p-60{
+    padding-bottom: 0;
+  }
+
   .mainheading {
     font-size: 25px;
   }
